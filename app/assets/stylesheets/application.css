@@ -1,0 +1,9 @@
+#error_explanation {
+    color: red;
+}
+
+.nav-link {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 600;
+  line-height: normal
+}
